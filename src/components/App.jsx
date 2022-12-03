@@ -14,3 +14,4 @@ export const App = () => {
     </div>
   );
 };
+// git remote set-url origin https://github.com/internet-user-0/goit-react-hw-01-components.git
