@@ -11,7 +11,8 @@
    margin-right: 35%;
    padding: 20px 0 0 0;
 
-   box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%), 0px 2px 1px rgb(0 0 0 / 20%);
+   box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%),
+      0px 2px 1px rgb(0 0 0 / 20%);
    border-radius: 0px 0px 4px 4px;
 }
 
@@ -23,18 +24,18 @@
    margin: 0;
    border-top: 2px solid #757575;
 }
-.stats li{
+.stats li {
    width: 33%;
 }
 .stats li:not(:last-child) {
-border-right: 2px solid #757575;
+   border-right: 2px solid #757575;
 }
 
 .avatar {
    max-width: 300px;
 }
 
-.tag ,
+.tag,
 .location,
 .label {
    font-weight: normal;
